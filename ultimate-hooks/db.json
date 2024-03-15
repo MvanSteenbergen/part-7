@@ -1,0 +1,63 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "hallo hoe issie",
+      "id": 3
+    },
+    {
+      "content": "hallo hoe issie",
+      "id": 4
+    },
+    {
+      "content": "wat is dit nou",
+      "id": 5
+    },
+    {
+      "content": "wat is dit nou",
+      "id": 6
+    },
+    {
+      "content": "het werkt!",
+      "id": 7
+    },
+    {
+      "content": "het werkt!",
+      "id": 8
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "Werkt dit al",
+      "number": "0612939521",
+      "id": 3
+    },
+    {
+      "name": "hallo",
+      "number": "04234324",
+      "id": 4
+    },
+    {
+      "name": "wat cool",
+      "number": "06-120321323",
+      "id": 5
+    }
+  ]
+}
